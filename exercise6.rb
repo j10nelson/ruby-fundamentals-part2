@@ -1,6 +1,6 @@
 grocery_list = ["carrots", "toilet paper", "apples", "salmon"]
 
-def output_list (v)
+def output_list(v)
   v.each do |i|
     p "* " + i
   end

@@ -29,3 +29,10 @@ end
     
 c = temp_converter(f)
 p "The temperature in Celsius is #{c}" 
+
+
+
+
+
+
+
